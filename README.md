@@ -39,8 +39,8 @@ A simple RESTful API for managing student records using Node.js, Express, and Mo
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/mujahidul885/student-api-express-mongodb.git
+    cd student-api-express-mongodb
     ```
 
 2. Install dependencies:
